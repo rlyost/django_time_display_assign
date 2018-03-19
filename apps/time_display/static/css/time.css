@@ -1,0 +1,14 @@
+p {
+    border: 2px solid black;
+    margin: 45px auto 30px auto;
+    width: 20%;
+    text-align: center;
+}
+h1 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px auto 0 auto;
+    padding: 30px;
+    text-align: center;
+    font-size: 38pt;
+}
